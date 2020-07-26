@@ -18,17 +18,17 @@
   После полного экспорта данных в таблицу отобразить на странице всех игроков со
   статусом On в порядке времени регистрации.
 
-##Тестовое написано с использованием стека Node.js + PostgreSQL, а также пакетов:
-      1. express https://www.npmjs.com/package/express
-      2. fast-csv https://www.npmjs.com/package/fast-csv
-      3. pg https://www.npmjs.com/package/pg
+## Тестовое написано с использованием стека Node.js + PostgreSQL, а также пакетов:
+       1. express https://www.npmjs.com/package/express
+       2. fast-csv https://www.npmjs.com/package/fast-csv
+       3. pg https://www.npmjs.com/package/pg
 
-##Использование проекта
+## Использование проекта
 Для того, чтобы использовать проект, необходимо:
-      1. Клонировать репозиторий $ git clone https://github.com/Slizzygod/test-targem_games.git
-      2. Установить зависимости проекта $ npm install
-      3. Создать базу данных в PostgreSQL
-      4. Подключиться к БД, использовав файл конфигурации ./config/config.js
-      5. Запустить проект node index.js
-      6. Сделать корневой запрос в адресной строке браузера http://localhost:4000/ 
-      7. Наблюдать результаты тестового в консоле ide/редактора и на странице
+       1. Клонировать репозиторий $ git clone https://github.com/Slizzygod/test-targem_games.git
+       2. Установить зависимости проекта $ npm install
+       3. Создать базу данных в PostgreSQL
+       4. Подключиться к БД, использовав файл конфигурации ./config/config.js
+       5. Запустить проект node index.js
+       6. Сделать корневой запрос в адресной строке браузера http://localhost:4000/ 
+       7. Наблюдать результаты тестового в консоле ide/редактора и на странице
