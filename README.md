@@ -18,10 +18,10 @@
   После полного экспорта данных в таблицу отобразить на странице всех игроков со
   статусом On в порядке времени регистрации.
 
-## Тестовое написано с использованием стека Node.js + PostgreSQL, а также пакетов:
-       1. express [https://www.npmjs.com/package/express](https://www.npmjs.com/package/express)
-       2. fast-csv [https://www.npmjs.com/package/fast-csv](https://www.npmjs.com/package/fast-csv)
-       3. pg [https://www.npmjs.com/package/pg](https://www.npmjs.com/package/pg)
+## Тестовое написано с использованием стека Node.js + PostgreSQL, а также пакетов
+       1. express [https://www.npmjs.com/package/express]
+       2. fast-csv [https://www.npmjs.com/package/fast-csv]
+       3. pg [https://www.npmjs.com/package/pg]
 
 ## Использование проекта
 ### Для того, чтобы использовать проект, необходимо:
