@@ -24,7 +24,7 @@
        3. pg https://www.npmjs.com/package/pg
 
 ## Использование проекта
-Для того, чтобы использовать проект, необходимо:
+### Для того, чтобы использовать проект, необходимо:
        1. Клонировать репозиторий $ git clone https://github.com/Slizzygod/test-targem_games.git
        2. Установить зависимости проекта $ npm install
        3. Создать базу данных в PostgreSQL
